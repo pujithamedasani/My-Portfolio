@@ -1,4 +1,4 @@
-#  Pujitha Medasani | Personal Portfolio
+#  Pujitha Medasani - Personal Portfolio
 
 A modern, minimal, and responsive portfolio website designed to showcase my work as a **Software Developer Intern** and **AI Intern**. This project features a dark-themed UI, smooth animations, and a comprehensive look at my technical expertise in Backend Development, Data Analysis, and Systems Programming.
 
@@ -23,7 +23,6 @@ A modern, minimal, and responsive portfolio website designed to showcase my work
 ## 📂 Project Structure
 
 ```text
-.
 ├── index.html       # Main website structure
 ├── style.css        # Custom CSS styles (Dark mode, Layout, Animations)
 ├── script.js       # Logic for typing effects and smooth scrolling
