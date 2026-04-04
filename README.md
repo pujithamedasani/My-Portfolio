@@ -2,8 +2,8 @@
 
 A modern, minimal, and responsive portfolio website designed to showcase my work as a **Software Developer Intern** and **AI Intern**. This project features a dark-themed UI, smooth animations, and a comprehensive look at my technical expertise in Backend Development, Data Analysis, and Systems Programming.
 
-![Portfolio Preview](https://via.placeholder.com/800x400?text=Pujitha+Medasani+Portfolio+Preview) 
-*(Tip: Replace this with a screenshot of your actual site once hosted!)*
+![Portfolio Preview](<img width="1878" height="830" alt="image" src="https://github.com/user-attachments/assets/6b3bbda0-a0e4-436f-861b-2f37ba16fe14" />
+
 
 ##  Built With
 
@@ -23,6 +23,7 @@ A modern, minimal, and responsive portfolio website designed to showcase my work
 ## 📂 Project Structure
 
 ```text
+.
 ├── index.html       # Main website structure
 ├── style.css        # Custom CSS styles (Dark mode, Layout, Animations)
 ├── script.js       # Logic for typing effects and smooth scrolling
