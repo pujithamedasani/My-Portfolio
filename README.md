@@ -2,7 +2,7 @@
 
 A modern, minimal, and responsive portfolio website designed to showcase my work as a **Software Developer Intern** and **AI Intern**. This project features a dark-themed UI, smooth animations, and a comprehensive look at my technical expertise in Backend Development, Data Analysis, and Systems Programming.
 
-<img width="1878" height="830" alt="image" src="https://github.com/user-attachments/assets/6b3bbda0-a0e4-436f-861b-2f37ba16fe14" />
+<img width="1878" height="830" alt="image" src="./image.png"
 
 
 ##  Built With
