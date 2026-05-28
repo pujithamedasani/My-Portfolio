@@ -18,6 +18,7 @@
             <li><a href="#skills">Skills</a></li>
             <li><a href="#experience">Experience</a></li> 
             <li><a href="#projects">Projects</a></li>
+            <li><a href="#certifications">Certifications</a></li>
             <li><a href="#education">Education</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
@@ -43,7 +44,6 @@
         <!-- Your Photo -->
         <div class="hero-image">
             <div class="img-frame">
-                <!-- Replace 'profile.jpg' with your actual image file name -->
                 <img src="profile.jpg" alt="Pujitha Medasani">
             </div>
         </div>
@@ -139,7 +139,7 @@
         <h3 class="section-title">Featured Projects</h3>
         <div class="projects-grid">
             <!-- Project 1-->
-        <div class="project-card">
+        <div class="project-card" onclick="openModal('apartment')">
             <div class="project-info">
                 <h4>Apartment Maintenance System</h4>
                 <p>Full-stack flat management platform with role-based dashboards for admins and residents. Integrated JWT for secure login.</p>
@@ -208,12 +208,33 @@
         </div>
 
     </section>
+    
+    <!-- Certifications Section -->
+    <section id="certifications" class="section">
+    <h3 class="section-title">Certifications</h3>
+    <div class="certifications-grid">
+        <div class="exp-card" >
+            <h4>MongoDB Certified Associate Developer</h4>
+            <p class="exp-org">MongoDB</p>
+            <span class="exp-period">April 2026</span>
+            <a href="https://learn.mongodb.com/c/tedx7doRR_O4WytHSG3vTg" class="project-link">View Certificate →</a>
+        </div>
+        <div class="exp-card" onclick="openModal('hackerrank')">
+            <h4>Software Engineer Intern</h4>
+            <p class="exp-org">HackerRank</p>
+            <span class="exp-period">Jun 2025</span>
+            <a href="https://www.hackerrank.com/certificates/iframe/5330adbec14b" class="project-link">View Certificate →</a>
+        </div>
+
+    </div>
+
+    </section>
 
     <!-- Education Section -->
     <section id="education" class="section">
     <h3 class="section-title">Education</h3>
-    <div class="exp-item" style="border: none; padding: 0;">
-        <div class="exp-header">
+     <div class="education-grid">
+            <div class="education-card">
             <h4>Bachelor of Technology in Computer Science</h4>
             <span class="exp-company">SRM University AP</span>
             <span class="exp-date">(Aug 2024 - Sep 2028)</span>
