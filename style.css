@@ -410,7 +410,7 @@ h2 {
     justify-content: center; /* This helps center the items */
 }
 
-/* Education Grid */
+/*----Education Grid---- */
 .education-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
